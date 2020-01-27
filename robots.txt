@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aimufeire.flyingdinos.com/sitemap.xml
